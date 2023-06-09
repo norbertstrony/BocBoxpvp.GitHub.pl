@@ -1,2 +1,2 @@
-# BocBoxpvp.GitHub.pl
+# BocBoxpvp.GitHub.io
 serwer godny gracza
